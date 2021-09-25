@@ -29,6 +29,7 @@ public class Lab1 {
 
         System.out.println("X = " + x); //Виведення значення x
         System.out.println("Y = " + y); //Виведення значення y
+
     }
 
 }
